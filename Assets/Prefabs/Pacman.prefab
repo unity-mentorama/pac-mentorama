@@ -10,7 +10,6 @@ GameObject:
   m_Component:
   - component: {fileID: 7786777576644217943}
   - component: {fileID: 7786777576644217940}
-  - component: {fileID: 885329568}
   - component: {fileID: 885329567}
   m_Layer: 8
   m_Name: View
@@ -84,25 +83,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 1
   m_SpriteSortPoint: 0
---- !u!320 &885329568
-PlayableDirector:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7786777576644217942}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_PlayableAsset: {fileID: 11400000, guid: d2abde985e16ce84eae4fe1e9d17079d, type: 2}
-  m_InitialState: 1
-  m_WrapMode: 1
-  m_DirectorUpdateMode: 3
-  m_InitialTime: 0
-  m_SceneBindings:
-  - key: {fileID: 114888799359022112, guid: d2abde985e16ce84eae4fe1e9d17079d, type: 2}
-    value: {fileID: 885329567}
-  m_ExposedReferences:
-    m_References: []
 --- !u!95 &885329567
 Animator:
   serializedVersion: 3
@@ -113,7 +93,7 @@ Animator:
   m_GameObject: {fileID: 7786777576644217942}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 2548b6f03088ada4bb5cad1427a2a2e5, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
