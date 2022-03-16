@@ -216,11 +216,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 3214999534907593570, guid: 0c2b88605f5ae9c4b8dc040821d73e7e,
-        type: 3}
-      propertyPath: Map
-      value: 
-      objectReference: {fileID: 0}
     - target: {fileID: 3214999534907593571, guid: 0c2b88605f5ae9c4b8dc040821d73e7e,
         type: 3}
       propertyPath: m_RootOrder
@@ -280,22 +275,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Inky
-      objectReference: {fileID: 0}
-    - target: {fileID: 3214999534907593573, guid: 0c2b88605f5ae9c4b8dc040821d73e7e,
-        type: 3}
-      propertyPath: audioSource
-      value: 
-      objectReference: {fileID: 519420030}
-    - target: {fileID: 3214999534907593573, guid: 0c2b88605f5ae9c4b8dc040821d73e7e,
-        type: 3}
-      propertyPath: StartupMethod
-      value: 
-      objectReference: {fileID: 11400000, guid: e4b985c60c3962c468a8206f38154479,
-        type: 2}
-    - target: {fileID: 3214999534907593573, guid: 0c2b88605f5ae9c4b8dc040821d73e7e,
-        type: 3}
-      propertyPath: GhostsOnlyTilemap
-      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0c2b88605f5ae9c4b8dc040821d73e7e, type: 3}
@@ -687,27 +666,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pinky
       objectReference: {fileID: 0}
-    - target: {fileID: 3898945533861560683, guid: 7084e9789ba5c1d489f0ab130e835b14,
-        type: 3}
-      propertyPath: audioSource
-      value: 
-      objectReference: {fileID: 519420030}
-    - target: {fileID: 3898945533861560683, guid: 7084e9789ba5c1d489f0ab130e835b14,
-        type: 3}
-      propertyPath: StartupMethod
-      value: 
-      objectReference: {fileID: 11400000, guid: e4b985c60c3962c468a8206f38154479,
-        type: 2}
-    - target: {fileID: 3898945533861560683, guid: 7084e9789ba5c1d489f0ab130e835b14,
-        type: 3}
-      propertyPath: GhostsOnlyTilemap
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 3898945533861560684, guid: 7084e9789ba5c1d489f0ab130e835b14,
-        type: 3}
-      propertyPath: Map
-      value: 
-      objectReference: {fileID: 0}
     - target: {fileID: 3898945533861560685, guid: 7084e9789ba5c1d489f0ab130e835b14,
         type: 3}
       propertyPath: m_RootOrder
@@ -826,27 +784,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6102509383417002171, guid: 799d3ec5443fc934982d83954d10e5af,
-        type: 3}
-      propertyPath: Map
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 6102509383417002172, guid: 799d3ec5443fc934982d83954d10e5af,
-        type: 3}
-      propertyPath: audioSource
-      value: 
-      objectReference: {fileID: 519420030}
-    - target: {fileID: 6102509383417002172, guid: 799d3ec5443fc934982d83954d10e5af,
-        type: 3}
-      propertyPath: StartupMethod
-      value: 
-      objectReference: {fileID: 11400000, guid: e4b985c60c3962c468a8206f38154479,
-        type: 2}
-    - target: {fileID: 6102509383417002172, guid: 799d3ec5443fc934982d83954d10e5af,
-        type: 3}
-      propertyPath: GhostsOnlyTilemap
-      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 6102509383417002173, guid: 799d3ec5443fc934982d83954d10e5af,
         type: 3}
