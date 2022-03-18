@@ -7516,7 +7516,7 @@ GameObject:
   - component: {fileID: 5646108625067177448}
   - component: {fileID: 4569447439198540355}
   m_Layer: 11
-  m_Name: Recovery
+  m_Name: GhostHouse
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
